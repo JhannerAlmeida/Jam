@@ -17,7 +17,7 @@ shape = SubResource("RectangleShape2D_elft2")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1930755366]
 position = Vector2(0, -9)
-zoom = Vector2(3.8, 3.8)
+zoom = Vector2(3.7, 3.7)
 limit_left = 0
 limit_bottom = 600
 drag_horizontal_enabled = true
